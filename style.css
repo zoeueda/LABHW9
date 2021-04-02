@@ -1,0 +1,40 @@
+@font-face {
+	font-family:'Harry P';
+	src: url("font/Harry P.ttf")
+}
+
+body {
+	background-image: url(background.jpg);
+}
+
+h1 {
+	font-size: 100px;
+	color: white;
+	font-family:'Harry P';
+	text-align: center;
+}
+
+
+h2 {
+	font-size:60px;
+	font-family:'Harry P';
+	color: white;
+	text-align: center;
+}
+
+img{
+width: 400px;
+padding-left: 35%;
+/*height: auto;	
+align-items: center;
+justify-content: center;
+display: inline-flex;
+*/
+}
+
+p {
+	font-size: 22px;
+	text-align: center;
+	color: white;
+	font-family: 'New Tegomin', serif;
+}
